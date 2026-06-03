@@ -1,0 +1,53 @@
+name: Scrape data center tracker
+
+# Runs the Cleanview scraper on a schedule, commits the fresh snapshot back to
+# the repo, and archives a dated copy so you build a time series of the pipeline.
+#
+# PLACE THIS FILE AT:  .github/workflows/scrape-datacenters.yml
+
+on:
+  schedule:
+    - cron: "0 11 * * *"      # daily at 11:00 UTC (cron is always UTC)
+  workflow_dispatch: {}        # adds a "Run workflow" button for manual pulls
+
+permissions:
+  contents: write              # lets the workflow commit data back to the repo
+
+concurrency:
+  group: scrape-datacenters
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python cleanview_scraper.py
+
+      - name: Archive dated snapshot
+        run: |
+          mkdir -p data/history
+          cp data/datacenters.json "data/history/datacenters-$(date -u +%F).json"
+
+      - name: Commit if data changed
+        run: |
+          git config user.name  "datacenter-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: snapshot $(date -u +%F)"
+            git push
+          fi
