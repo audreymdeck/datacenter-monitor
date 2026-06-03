@@ -1,0 +1,847 @@
+{
+  "pulled_at": "2026-06-03T18:50:54.866214+00:00",
+  "source": "https://cleanview.co/data-centers",
+  "national": {
+    "url": "https://cleanview.co/data-centers/us",
+    "summary": {
+      "operating_count": 688,
+      "operating_mw": 24396,
+      "planned_count": 956,
+      "planned_mw": 333363
+    },
+    "facilities": [],
+    "derived": {
+      "pipeline_multiple": 13.66,
+      "operating_avg_mw": 35.5,
+      "planned_avg_mw": 348.7,
+      "size_divergence": 9.8,
+      "total_count": 1644,
+      "total_mw": 357759
+    }
+  },
+  "states": {
+    "alabama": {
+      "url": "https://cleanview.co/data-centers/alabama",
+      "summary": {
+        "operating_count": 4,
+        "operating_mw": 7,
+        "planned_count": 8,
+        "planned_mw": 625
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 89.29,
+        "operating_avg_mw": 1.8,
+        "planned_avg_mw": 78.1,
+        "size_divergence": 43.4,
+        "total_count": 12,
+        "total_mw": 632
+      }
+    },
+    "alaska": {
+      "url": "https://cleanview.co/data-centers/alaska",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 1,
+        "planned_mw": 1000
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 1000.0,
+        "total_count": 1,
+        "total_mw": 1000
+      }
+    },
+    "arizona": {
+      "url": "https://cleanview.co/data-centers/arizona",
+      "summary": {
+        "operating_count": 24,
+        "operating_mw": 2077,
+        "planned_count": 29,
+        "planned_mw": 10655
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 5.13,
+        "operating_avg_mw": 86.5,
+        "planned_avg_mw": 367.4,
+        "size_divergence": 4.2,
+        "total_count": 53,
+        "total_mw": 12732
+      }
+    },
+    "arkansas": {
+      "url": "https://cleanview.co/data-centers/arkansas",
+      "summary": {
+        "operating_count": 1,
+        "operating_mw": 5,
+        "planned_count": 7,
+        "planned_mw": 550
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 110.0,
+        "operating_avg_mw": 5.0,
+        "planned_avg_mw": 78.6,
+        "size_divergence": 15.7,
+        "total_count": 8,
+        "total_mw": 555
+      }
+    },
+    "california": {
+      "url": "https://cleanview.co/data-centers/california",
+      "summary": {
+        "operating_count": 44,
+        "operating_mw": 803,
+        "planned_count": 25,
+        "planned_mw": 1686
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 2.1,
+        "operating_avg_mw": 18.2,
+        "planned_avg_mw": 67.4,
+        "size_divergence": 3.7,
+        "total_count": 69,
+        "total_mw": 2489
+      }
+    },
+    "colorado": {
+      "url": "https://cleanview.co/data-centers/colorado",
+      "summary": {
+        "operating_count": 13,
+        "operating_mw": 143,
+        "planned_count": 6,
+        "planned_mw": 1396
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 9.76,
+        "operating_avg_mw": 11.0,
+        "planned_avg_mw": 232.7,
+        "size_divergence": 21.2,
+        "total_count": 19,
+        "total_mw": 1539
+      }
+    },
+    "connecticut": {
+      "url": "https://cleanview.co/data-centers/connecticut",
+      "summary": {
+        "operating_count": 1,
+        "operating_mw": 1,
+        "planned_count": 2,
+        "planned_mw": 300
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 300.0,
+        "operating_avg_mw": 1.0,
+        "planned_avg_mw": 150.0,
+        "size_divergence": 150.0,
+        "total_count": 3,
+        "total_mw": 301
+      }
+    },
+    "delaware": {
+      "url": "https://cleanview.co/data-centers/delaware",
+      "summary": null,
+      "facilities": []
+    },
+    "florida": {
+      "url": "https://cleanview.co/data-centers/florida",
+      "summary": {
+        "operating_count": 12,
+        "operating_mw": 30,
+        "planned_count": 8,
+        "planned_mw": 4366
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 145.53,
+        "operating_avg_mw": 2.5,
+        "planned_avg_mw": 545.8,
+        "size_divergence": 218.3,
+        "total_count": 20,
+        "total_mw": 4396
+      }
+    },
+    "georgia": {
+      "url": "https://cleanview.co/data-centers/georgia",
+      "summary": {
+        "operating_count": 17,
+        "operating_mw": 1021,
+        "planned_count": 83,
+        "planned_mw": 9231
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 9.04,
+        "operating_avg_mw": 60.1,
+        "planned_avg_mw": 111.2,
+        "size_divergence": 1.9,
+        "total_count": 100,
+        "total_mw": 10252
+      }
+    },
+    "hawaii": {
+      "url": "https://cleanview.co/data-centers/hawaii",
+      "summary": null,
+      "facilities": []
+    },
+    "idaho": {
+      "url": "https://cleanview.co/data-centers/idaho",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 3,
+        "planned_mw": 60
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 20.0,
+        "total_count": 3,
+        "total_mw": 60
+      }
+    },
+    "illinois": {
+      "url": "https://cleanview.co/data-centers/illinois",
+      "summary": {
+        "operating_count": 26,
+        "operating_mw": 767,
+        "planned_count": 31,
+        "planned_mw": 8584
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 11.19,
+        "operating_avg_mw": 29.5,
+        "planned_avg_mw": 276.9,
+        "size_divergence": 9.4,
+        "total_count": 57,
+        "total_mw": 9351
+      }
+    },
+    "indiana": {
+      "url": "https://cleanview.co/data-centers/indiana",
+      "summary": {
+        "operating_count": 4,
+        "operating_mw": 931,
+        "planned_count": 34,
+        "planned_mw": 15893
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 17.07,
+        "operating_avg_mw": 232.8,
+        "planned_avg_mw": 467.4,
+        "size_divergence": 2.0,
+        "total_count": 38,
+        "total_mw": 16824
+      }
+    },
+    "iowa": {
+      "url": "https://cleanview.co/data-centers/iowa",
+      "summary": {
+        "operating_count": 10,
+        "operating_mw": 642,
+        "planned_count": 11,
+        "planned_mw": 3758
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 5.85,
+        "operating_avg_mw": 64.2,
+        "planned_avg_mw": 341.6,
+        "size_divergence": 5.3,
+        "total_count": 21,
+        "total_mw": 4400
+      }
+    },
+    "kansas": {
+      "url": "https://cleanview.co/data-centers/kansas",
+      "summary": {
+        "operating_count": 3,
+        "operating_mw": 20,
+        "planned_count": 6,
+        "planned_mw": 1350
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 67.5,
+        "operating_avg_mw": 6.7,
+        "planned_avg_mw": 225.0,
+        "size_divergence": 33.6,
+        "total_count": 9,
+        "total_mw": 1370
+      }
+    },
+    "kentucky": {
+      "url": "https://cleanview.co/data-centers/kentucky",
+      "summary": {
+        "operating_count": 1,
+        "operating_mw": 150,
+        "planned_count": 4,
+        "planned_mw": 1882
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 12.55,
+        "operating_avg_mw": 150.0,
+        "planned_avg_mw": 470.5,
+        "size_divergence": 3.1,
+        "total_count": 5,
+        "total_mw": 2032
+      }
+    },
+    "louisiana": {
+      "url": "https://cleanview.co/data-centers/louisiana",
+      "summary": {
+        "operating_count": 1,
+        "operating_mw": 1,
+        "planned_count": 7,
+        "planned_mw": 6022
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 6022.0,
+        "operating_avg_mw": 1.0,
+        "planned_avg_mw": 860.3,
+        "size_divergence": 860.3,
+        "total_count": 8,
+        "total_mw": 6023
+      }
+    },
+    "maine": {
+      "url": "https://cleanview.co/data-centers/maine",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 3,
+        "planned_mw": 88
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 29.3,
+        "total_count": 3,
+        "total_mw": 88
+      }
+    },
+    "maryland": {
+      "url": "https://cleanview.co/data-centers/maryland",
+      "summary": {
+        "operating_count": 2,
+        "operating_mw": 3,
+        "planned_count": 8,
+        "planned_mw": 2335
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 778.33,
+        "operating_avg_mw": 1.5,
+        "planned_avg_mw": 291.9,
+        "size_divergence": 194.6,
+        "total_count": 10,
+        "total_mw": 2338
+      }
+    },
+    "massachusetts": {
+      "url": "https://cleanview.co/data-centers/massachusetts",
+      "summary": null,
+      "facilities": []
+    },
+    "michigan": {
+      "url": "https://cleanview.co/data-centers/michigan",
+      "summary": {
+        "operating_count": 2,
+        "operating_mw": 3,
+        "planned_count": 11,
+        "planned_mw": 2940
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 980.0,
+        "operating_avg_mw": 1.5,
+        "planned_avg_mw": 267.3,
+        "size_divergence": 178.2,
+        "total_count": 13,
+        "total_mw": 2943
+      }
+    },
+    "minnesota": {
+      "url": "https://cleanview.co/data-centers/minnesota",
+      "summary": {
+        "operating_count": 13,
+        "operating_mw": 43,
+        "planned_count": 14,
+        "planned_mw": 1820
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 42.33,
+        "operating_avg_mw": 3.3,
+        "planned_avg_mw": 130.0,
+        "size_divergence": 39.4,
+        "total_count": 27,
+        "total_mw": 1863
+      }
+    },
+    "mississippi": {
+      "url": "https://cleanview.co/data-centers/mississippi",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 7,
+        "planned_mw": 2706
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 386.6,
+        "total_count": 7,
+        "total_mw": 2706
+      }
+    },
+    "missouri": {
+      "url": "https://cleanview.co/data-centers/missouri",
+      "summary": {
+        "operating_count": 7,
+        "operating_mw": 84,
+        "planned_count": 13,
+        "planned_mw": 2294
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 27.31,
+        "operating_avg_mw": 12.0,
+        "planned_avg_mw": 176.5,
+        "size_divergence": 14.7,
+        "total_count": 20,
+        "total_mw": 2378
+      }
+    },
+    "montana": {
+      "url": "https://cleanview.co/data-centers/montana",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 3,
+        "planned_mw": 1150
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 383.3,
+        "total_count": 3,
+        "total_mw": 1150
+      }
+    },
+    "nebraska": {
+      "url": "https://cleanview.co/data-centers/nebraska",
+      "summary": {
+        "operating_count": 6,
+        "operating_mw": 266,
+        "planned_count": 4,
+        "planned_mw": 2000
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 7.52,
+        "operating_avg_mw": 44.3,
+        "planned_avg_mw": 500.0,
+        "size_divergence": 11.3,
+        "total_count": 10,
+        "total_mw": 2266
+      }
+    },
+    "nevada": {
+      "url": "https://cleanview.co/data-centers/nevada",
+      "summary": {
+        "operating_count": 7,
+        "operating_mw": 355,
+        "planned_count": 14,
+        "planned_mw": 6651
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 18.74,
+        "operating_avg_mw": 50.7,
+        "planned_avg_mw": 475.1,
+        "size_divergence": 9.4,
+        "total_count": 21,
+        "total_mw": 7006
+      }
+    },
+    "new-hampshire": {
+      "url": "https://cleanview.co/data-centers/new-hampshire",
+      "summary": null,
+      "facilities": []
+    },
+    "new-jersey": {
+      "url": "https://cleanview.co/data-centers/new-jersey",
+      "summary": {
+        "operating_count": 12,
+        "operating_mw": 230,
+        "planned_count": 7,
+        "planned_mw": 640
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 2.78,
+        "operating_avg_mw": 19.2,
+        "planned_avg_mw": 91.4,
+        "size_divergence": 4.8,
+        "total_count": 19,
+        "total_mw": 870
+      }
+    },
+    "new-mexico": {
+      "url": "https://cleanview.co/data-centers/new-mexico",
+      "summary": {
+        "operating_count": 2,
+        "operating_mw": 126,
+        "planned_count": 4,
+        "planned_mw": 12460
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 98.89,
+        "operating_avg_mw": 63.0,
+        "planned_avg_mw": 3115.0,
+        "size_divergence": 49.4,
+        "total_count": 6,
+        "total_mw": 12586
+      }
+    },
+    "new-york": {
+      "url": "https://cleanview.co/data-centers/new-york",
+      "summary": {
+        "operating_count": 10,
+        "operating_mw": 207,
+        "planned_count": 25,
+        "planned_mw": 9803
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 47.36,
+        "operating_avg_mw": 20.7,
+        "planned_avg_mw": 392.1,
+        "size_divergence": 18.9,
+        "total_count": 35,
+        "total_mw": 10010
+      }
+    },
+    "north-carolina": {
+      "url": "https://cleanview.co/data-centers/north-carolina",
+      "summary": {
+        "operating_count": 9,
+        "operating_mw": 161,
+        "planned_count": 15,
+        "planned_mw": 2539
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 15.77,
+        "operating_avg_mw": 17.9,
+        "planned_avg_mw": 169.3,
+        "size_divergence": 9.5,
+        "total_count": 24,
+        "total_mw": 2700
+      }
+    },
+    "north-dakota": {
+      "url": "https://cleanview.co/data-centers/north-dakota",
+      "summary": {
+        "operating_count": 2,
+        "operating_mw": 200,
+        "planned_count": 6,
+        "planned_mw": 1000
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 5.0,
+        "operating_avg_mw": 100.0,
+        "planned_avg_mw": 166.7,
+        "size_divergence": 1.7,
+        "total_count": 8,
+        "total_mw": 1200
+      }
+    },
+    "ohio": {
+      "url": "https://cleanview.co/data-centers/ohio",
+      "summary": {
+        "operating_count": 14,
+        "operating_mw": 120,
+        "planned_count": 43,
+        "planned_mw": 15339
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 127.83,
+        "operating_avg_mw": 8.6,
+        "planned_avg_mw": 356.7,
+        "size_divergence": 41.5,
+        "total_count": 57,
+        "total_mw": 15459
+      }
+    },
+    "oklahoma": {
+      "url": "https://cleanview.co/data-centers/oklahoma",
+      "summary": {
+        "operating_count": 5,
+        "operating_mw": 18,
+        "planned_count": 12,
+        "planned_mw": 2723
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 151.28,
+        "operating_avg_mw": 3.6,
+        "planned_avg_mw": 226.9,
+        "size_divergence": 63.0,
+        "total_count": 17,
+        "total_mw": 2741
+      }
+    },
+    "oregon": {
+      "url": "https://cleanview.co/data-centers/oregon",
+      "summary": {
+        "operating_count": 17,
+        "operating_mw": 441,
+        "planned_count": 16,
+        "planned_mw": 604
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 1.37,
+        "operating_avg_mw": 25.9,
+        "planned_avg_mw": 37.8,
+        "size_divergence": 1.5,
+        "total_count": 33,
+        "total_mw": 1045
+      }
+    },
+    "pennsylvania": {
+      "url": "https://cleanview.co/data-centers/pennsylvania",
+      "summary": {
+        "operating_count": 11,
+        "operating_mw": 95,
+        "planned_count": 37,
+        "planned_mw": 18632
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 196.13,
+        "operating_avg_mw": 8.6,
+        "planned_avg_mw": 503.6,
+        "size_divergence": 58.6,
+        "total_count": 48,
+        "total_mw": 18727
+      }
+    },
+    "rhode-island": {
+      "url": "https://cleanview.co/data-centers/rhode-island",
+      "summary": null,
+      "facilities": []
+    },
+    "south-carolina": {
+      "url": "https://cleanview.co/data-centers/south-carolina",
+      "summary": {
+        "operating_count": 3,
+        "operating_mw": 22,
+        "planned_count": 10,
+        "planned_mw": 407
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 18.5,
+        "operating_avg_mw": 7.3,
+        "planned_avg_mw": 40.7,
+        "size_divergence": 5.6,
+        "total_count": 13,
+        "total_mw": 429
+      }
+    },
+    "south-dakota": {
+      "url": "https://cleanview.co/data-centers/south-dakota",
+      "summary": {
+        "operating_count": 2,
+        "operating_mw": 3,
+        "planned_count": 2,
+        "planned_mw": 502
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 167.33,
+        "operating_avg_mw": 1.5,
+        "planned_avg_mw": 251.0,
+        "size_divergence": 167.3,
+        "total_count": 4,
+        "total_mw": 505
+      }
+    },
+    "tennessee": {
+      "url": "https://cleanview.co/data-centers/tennessee",
+      "summary": {
+        "operating_count": 10,
+        "operating_mw": 408,
+        "planned_count": 4,
+        "planned_mw": 1925
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 4.72,
+        "operating_avg_mw": 40.8,
+        "planned_avg_mw": 481.2,
+        "size_divergence": 11.8,
+        "total_count": 14,
+        "total_mw": 2333
+      }
+    },
+    "texas": {
+      "url": "https://cleanview.co/data-centers/texas",
+      "summary": {
+        "operating_count": 87,
+        "operating_mw": 4807,
+        "planned_count": 156,
+        "planned_mw": 93954
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 19.55,
+        "operating_avg_mw": 55.3,
+        "planned_avg_mw": 602.3,
+        "size_divergence": 10.9,
+        "total_count": 243,
+        "total_mw": 98761
+      }
+    },
+    "utah": {
+      "url": "https://cleanview.co/data-centers/utah",
+      "summary": {
+        "operating_count": 13,
+        "operating_mw": 350,
+        "planned_count": 16,
+        "planned_mw": 27551
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 78.72,
+        "operating_avg_mw": 26.9,
+        "planned_avg_mw": 1721.9,
+        "size_divergence": 64.0,
+        "total_count": 29,
+        "total_mw": 27901
+      }
+    },
+    "vermont": {
+      "url": "https://cleanview.co/data-centers/vermont",
+      "summary": null,
+      "facilities": []
+    },
+    "virginia": {
+      "url": "https://cleanview.co/data-centers/virginia",
+      "summary": {
+        "operating_count": 269,
+        "operating_mw": 9202,
+        "planned_count": 231,
+        "planned_mw": 38415
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 4.17,
+        "operating_avg_mw": 34.2,
+        "planned_avg_mw": 166.3,
+        "size_divergence": 4.9,
+        "total_count": 500,
+        "total_mw": 47617
+      }
+    },
+    "washington": {
+      "url": "https://cleanview.co/data-centers/washington",
+      "summary": {
+        "operating_count": 13,
+        "operating_mw": 173,
+        "planned_count": 5,
+        "planned_mw": 648
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 3.75,
+        "operating_avg_mw": 13.3,
+        "planned_avg_mw": 129.6,
+        "size_divergence": 9.7,
+        "total_count": 18,
+        "total_mw": 821
+      }
+    },
+    "west-virginia": {
+      "url": "https://cleanview.co/data-centers/west-virginia",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 9,
+        "planned_mw": 10256
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 1139.6,
+        "total_count": 9,
+        "total_mw": 10256
+      }
+    },
+    "wisconsin": {
+      "url": "https://cleanview.co/data-centers/wisconsin",
+      "summary": {
+        "operating_count": 4,
+        "operating_mw": 424,
+        "planned_count": 10,
+        "planned_mw": 2122
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": 5.0,
+        "operating_avg_mw": 106.0,
+        "planned_avg_mw": 212.2,
+        "size_divergence": 2.0,
+        "total_count": 14,
+        "total_mw": 2546
+      }
+    },
+    "wyoming": {
+      "url": "https://cleanview.co/data-centers/wyoming",
+      "summary": {
+        "operating_count": 0,
+        "operating_mw": 0,
+        "planned_count": 5,
+        "planned_mw": 4502
+      },
+      "facilities": [],
+      "derived": {
+        "pipeline_multiple": null,
+        "operating_avg_mw": null,
+        "planned_avg_mw": 900.4,
+        "total_count": 5,
+        "total_mw": 4502
+      }
+    }
+  },
+  "errors": {
+    "delaware": "'NoneType' object is not subscriptable",
+    "hawaii": "'NoneType' object is not subscriptable",
+    "massachusetts": "'NoneType' object is not subscriptable",
+    "new-hampshire": "'NoneType' object is not subscriptable",
+    "rhode-island": "'NoneType' object is not subscriptable",
+    "vermont": "'NoneType' object is not subscriptable"
+  }
+}
