@@ -1,7 +1,7 @@
 state,operating_count,operating_mw,planned_count,planned_mw,pipeline_multiple,operating_avg_mw,planned_avg_mw
 Alabama,12,644,12,2404,3.73,53.7,200.3
 Alaska,0,0,1,1000,,,1000.0
-Arizona,37,2939,41,11641,3.96,79.4,283.9
+Arizona,37,2939,40,10891,3.71,79.4,272.3
 Arkansas,1,5,7,550,110.0,5.0,78.6
 California,45,891,27,1773,1.99,19.8,65.7
 Colorado,13,143,6,1396,9.76,11.0,232.7
