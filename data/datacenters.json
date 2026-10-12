@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-11T16:33:43.007524+00:00",
+  "pulled_at": "2026-10-12T20:07:09.984167+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
-      "operating_count": 1339,
-      "operating_mw": 63064,
-      "planned_count": 2522,
-      "planned_mw": 379260
+      "operating_count": 1341,
+      "operating_mw": 63095,
+      "planned_count": 2539,
+      "planned_mw": 380357
     },
     "facilities": [],
     "derived": {
-      "pipeline_multiple": 6.01,
+      "pipeline_multiple": 6.03,
       "operating_avg_mw": 47.1,
-      "planned_avg_mw": 150.4,
+      "planned_avg_mw": 149.8,
       "size_divergence": 3.2,
-      "total_count": 3861,
-      "total_mw": 442324
+      "total_count": 3880,
+      "total_mw": 443452
     }
   },
   "states": {
@@ -174,16 +174,16 @@
         "operating_count": 43,
         "operating_mw": 2968,
         "planned_count": 149,
-        "planned_mw": 18649
+        "planned_mw": 18630
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 6.28,
         "operating_avg_mw": 69.0,
-        "planned_avg_mw": 125.2,
+        "planned_avg_mw": 125.0,
         "size_divergence": 1.8,
         "total_count": 192,
-        "total_mw": 21617
+        "total_mw": 21598
       }
     },
     "hawaii": {
@@ -646,19 +646,19 @@
     "pennsylvania": {
       "url": "https://cleanview.co/data-centers/pennsylvania",
       "summary": {
-        "operating_count": 15,
-        "operating_mw": 311,
+        "operating_count": 16,
+        "operating_mw": 328,
         "planned_count": 172,
-        "planned_mw": 21134
+        "planned_mw": 18134
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 67.95,
-        "operating_avg_mw": 20.7,
-        "planned_avg_mw": 122.9,
-        "size_divergence": 5.9,
-        "total_count": 187,
-        "total_mw": 21445
+        "pipeline_multiple": 55.29,
+        "operating_avg_mw": 20.5,
+        "planned_avg_mw": 105.4,
+        "size_divergence": 5.1,
+        "total_count": 188,
+        "total_mw": 18462
       }
     },
     "rhode-island": {
@@ -802,16 +802,16 @@
       "summary": {
         "operating_count": 0,
         "operating_mw": 0,
-        "planned_count": 19,
-        "planned_mw": 13050
+        "planned_count": 33,
+        "planned_mw": 15347
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": null,
         "operating_avg_mw": null,
-        "planned_avg_mw": 686.8,
-        "total_count": 19,
-        "total_mw": 13050
+        "planned_avg_mw": 465.1,
+        "total_count": 33,
+        "total_mw": 15347
       }
     },
     "wisconsin": {
