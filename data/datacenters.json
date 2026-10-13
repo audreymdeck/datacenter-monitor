@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-12T20:07:09.984167+00:00",
+  "pulled_at": "2026-10-13T17:57:02.444226+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
       "operating_count": 1341,
-      "operating_mw": 63095,
-      "planned_count": 2539,
-      "planned_mw": 380357
+      "operating_mw": 62942,
+      "planned_count": 2595,
+      "planned_mw": 385611
     },
     "facilities": [],
     "derived": {
-      "pipeline_multiple": 6.03,
-      "operating_avg_mw": 47.1,
-      "planned_avg_mw": 149.8,
+      "pipeline_multiple": 6.13,
+      "operating_avg_mw": 46.9,
+      "planned_avg_mw": 148.6,
       "size_divergence": 3.2,
-      "total_count": 3880,
-      "total_mw": 443452
+      "total_count": 3936,
+      "total_mw": 448553
     }
   },
   "states": {
@@ -94,19 +94,19 @@
     "california": {
       "url": "https://cleanview.co/data-centers/california",
       "summary": {
-        "operating_count": 55,
-        "operating_mw": 1033,
-        "planned_count": 31,
-        "planned_mw": 1969
+        "operating_count": 58,
+        "operating_mw": 1113,
+        "planned_count": 32,
+        "planned_mw": 2043
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 1.91,
-        "operating_avg_mw": 18.8,
-        "planned_avg_mw": 63.5,
-        "size_divergence": 3.4,
-        "total_count": 86,
-        "total_mw": 3002
+        "pipeline_multiple": 1.84,
+        "operating_avg_mw": 19.2,
+        "planned_avg_mw": 63.8,
+        "size_divergence": 3.3,
+        "total_count": 90,
+        "total_mw": 3156
       }
     },
     "colorado": {
@@ -724,18 +724,18 @@
       "url": "https://cleanview.co/data-centers/texas",
       "summary": {
         "operating_count": 162,
-        "operating_mw": 8183,
-        "planned_count": 503,
-        "planned_mw": 88391
+        "operating_mw": 8030,
+        "planned_count": 531,
+        "planned_mw": 93971
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 10.8,
-        "operating_avg_mw": 50.5,
-        "planned_avg_mw": 175.7,
-        "size_divergence": 3.5,
-        "total_count": 665,
-        "total_mw": 96574
+        "pipeline_multiple": 11.7,
+        "operating_avg_mw": 49.6,
+        "planned_avg_mw": 177.0,
+        "size_divergence": 3.6,
+        "total_count": 693,
+        "total_mw": 102001
       }
     },
     "utah": {
@@ -743,17 +743,17 @@
       "summary": {
         "operating_count": 40,
         "operating_mw": 1184,
-        "planned_count": 100,
-        "planned_mw": 26336
+        "planned_count": 102,
+        "planned_mw": 26924
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 22.24,
+        "pipeline_multiple": 22.74,
         "operating_avg_mw": 29.6,
-        "planned_avg_mw": 263.4,
+        "planned_avg_mw": 264.0,
         "size_divergence": 8.9,
-        "total_count": 140,
-        "total_mw": 27520
+        "total_count": 142,
+        "total_mw": 28108
       }
     },
     "vermont": {
@@ -766,17 +766,17 @@
       "summary": {
         "operating_count": 352,
         "operating_mw": 17270,
-        "planned_count": 392,
-        "planned_mw": 33770
+        "planned_count": 401,
+        "planned_mw": 34220
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 1.96,
+        "pipeline_multiple": 1.98,
         "operating_avg_mw": 49.1,
-        "planned_avg_mw": 86.1,
-        "size_divergence": 1.8,
-        "total_count": 744,
-        "total_mw": 51040
+        "planned_avg_mw": 85.3,
+        "size_divergence": 1.7,
+        "total_count": 753,
+        "total_mw": 51490
       }
     },
     "washington": {
@@ -803,15 +803,15 @@
         "operating_count": 0,
         "operating_mw": 0,
         "planned_count": 33,
-        "planned_mw": 15347
+        "planned_mw": 14491
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": null,
         "operating_avg_mw": null,
-        "planned_avg_mw": 465.1,
+        "planned_avg_mw": 439.1,
         "total_count": 33,
-        "total_mw": 15347
+        "total_mw": 14491
       }
     },
     "wisconsin": {
