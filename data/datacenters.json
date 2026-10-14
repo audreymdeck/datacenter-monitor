@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-13T17:57:02.444226+00:00",
+  "pulled_at": "2026-10-14T15:42:29.232892+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
@@ -743,17 +743,17 @@
       "summary": {
         "operating_count": 40,
         "operating_mw": 1184,
-        "planned_count": 102,
-        "planned_mw": 26924
+        "planned_count": 100,
+        "planned_mw": 26336
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 22.74,
+        "pipeline_multiple": 22.24,
         "operating_avg_mw": 29.6,
-        "planned_avg_mw": 264.0,
+        "planned_avg_mw": 263.4,
         "size_divergence": 8.9,
-        "total_count": 142,
-        "total_mw": 28108
+        "total_count": 140,
+        "total_mw": 27520
       }
     },
     "vermont": {
@@ -803,15 +803,15 @@
         "operating_count": 0,
         "operating_mw": 0,
         "planned_count": 33,
-        "planned_mw": 14491
+        "planned_mw": 15347
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": null,
         "operating_avg_mw": null,
-        "planned_avg_mw": 439.1,
+        "planned_avg_mw": 465.1,
         "total_count": 33,
-        "total_mw": 14491
+        "total_mw": 15347
       }
     },
     "wisconsin": {
