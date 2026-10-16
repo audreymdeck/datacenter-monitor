@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-15T15:29:59.840886+00:00",
+  "pulled_at": "2026-10-16T15:14:13.364281+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
-      "operating_count": 1355,
-      "operating_mw": 63090,
-      "planned_count": 2651,
-      "planned_mw": 395781
+      "operating_count": 1360,
+      "operating_mw": 63221,
+      "planned_count": 2732,
+      "planned_mw": 403556
     },
     "facilities": [],
     "derived": {
-      "pipeline_multiple": 6.27,
-      "operating_avg_mw": 46.6,
-      "planned_avg_mw": 149.3,
+      "pipeline_multiple": 6.38,
+      "operating_avg_mw": 46.5,
+      "planned_avg_mw": 147.7,
       "size_divergence": 3.2,
-      "total_count": 4006,
-      "total_mw": 458871
+      "total_count": 4092,
+      "total_mw": 466777
     }
   },
   "states": {
@@ -94,19 +94,19 @@
     "california": {
       "url": "https://cleanview.co/data-centers/california",
       "summary": {
-        "operating_count": 58,
-        "operating_mw": 1113,
-        "planned_count": 32,
-        "planned_mw": 2043
+        "operating_count": 69,
+        "operating_mw": 1182,
+        "planned_count": 36,
+        "planned_mw": 2387
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 1.84,
-        "operating_avg_mw": 19.2,
-        "planned_avg_mw": 63.8,
-        "size_divergence": 3.3,
-        "total_count": 90,
-        "total_mw": 3156
+        "pipeline_multiple": 2.02,
+        "operating_avg_mw": 17.1,
+        "planned_avg_mw": 66.3,
+        "size_divergence": 3.9,
+        "total_count": 105,
+        "total_mw": 3569
       }
     },
     "colorado": {
@@ -173,16 +173,16 @@
       "summary": {
         "operating_count": 43,
         "operating_mw": 2968,
-        "planned_count": 149,
+        "planned_count": 150,
         "planned_mw": 18630
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 6.28,
         "operating_avg_mw": 69.0,
-        "planned_avg_mw": 125.0,
+        "planned_avg_mw": 124.2,
         "size_divergence": 1.8,
-        "total_count": 192,
+        "total_count": 193,
         "total_mw": 21598
       }
     },
@@ -250,16 +250,16 @@
       "summary": {
         "operating_count": 51,
         "operating_mw": 2435,
-        "planned_count": 41,
+        "planned_count": 42,
         "planned_mw": 5159
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 2.12,
         "operating_avg_mw": 47.7,
-        "planned_avg_mw": 125.8,
+        "planned_avg_mw": 122.8,
         "size_divergence": 2.6,
-        "total_count": 92,
+        "total_count": 93,
         "total_mw": 7594
       }
     },
@@ -286,17 +286,17 @@
       "summary": {
         "operating_count": 2,
         "operating_mw": 157,
-        "planned_count": 18,
-        "planned_mw": 5607
+        "planned_count": 24,
+        "planned_mw": 7807
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 35.71,
+        "pipeline_multiple": 49.73,
         "operating_avg_mw": 78.5,
-        "planned_avg_mw": 311.5,
-        "size_divergence": 4.0,
-        "total_count": 20,
-        "total_mw": 5764
+        "planned_avg_mw": 325.3,
+        "size_divergence": 4.1,
+        "total_count": 26,
+        "total_mw": 7964
       }
     },
     "louisiana": {
@@ -612,35 +612,35 @@
       "summary": {
         "operating_count": 12,
         "operating_mw": 460,
-        "planned_count": 37,
-        "planned_mw": 6216
+        "planned_count": 38,
+        "planned_mw": 9516
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 13.51,
+        "pipeline_multiple": 20.69,
         "operating_avg_mw": 38.3,
-        "planned_avg_mw": 168.0,
-        "size_divergence": 4.4,
-        "total_count": 49,
-        "total_mw": 6676
+        "planned_avg_mw": 250.4,
+        "size_divergence": 6.5,
+        "total_count": 50,
+        "total_mw": 9976
       }
     },
     "oregon": {
       "url": "https://cleanview.co/data-centers/oregon",
       "summary": {
-        "operating_count": 98,
-        "operating_mw": 5375,
+        "operating_count": 99,
+        "operating_mw": 5381,
         "planned_count": 40,
         "planned_mw": 2815
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 0.52,
-        "operating_avg_mw": 54.8,
+        "operating_avg_mw": 54.4,
         "planned_avg_mw": 70.4,
         "size_divergence": 1.3,
-        "total_count": 138,
-        "total_mw": 8190
+        "total_count": 139,
+        "total_mw": 8196
       }
     },
     "pennsylvania": {
@@ -648,17 +648,17 @@
       "summary": {
         "operating_count": 16,
         "operating_mw": 328,
-        "planned_count": 194,
-        "planned_mw": 18840
+        "planned_count": 212,
+        "planned_mw": 20829
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 57.44,
+        "pipeline_multiple": 63.5,
         "operating_avg_mw": 20.5,
-        "planned_avg_mw": 97.1,
-        "size_divergence": 4.7,
-        "total_count": 210,
-        "total_mw": 19168
+        "planned_avg_mw": 98.2,
+        "size_divergence": 4.8,
+        "total_count": 228,
+        "total_mw": 21157
       }
     },
     "rhode-island": {
@@ -766,35 +766,35 @@
       "summary": {
         "operating_count": 352,
         "operating_mw": 17270,
-        "planned_count": 401,
-        "planned_mw": 34220
+        "planned_count": 447,
+        "planned_mw": 37696
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 1.98,
+        "pipeline_multiple": 2.18,
         "operating_avg_mw": 49.1,
-        "planned_avg_mw": 85.3,
+        "planned_avg_mw": 84.3,
         "size_divergence": 1.7,
-        "total_count": 753,
-        "total_mw": 51490
+        "total_count": 799,
+        "total_mw": 54966
       }
     },
     "washington": {
       "url": "https://cleanview.co/data-centers/washington",
       "summary": {
-        "operating_count": 41,
-        "operating_mw": 1069,
+        "operating_count": 42,
+        "operating_mw": 1088,
         "planned_count": 12,
         "planned_mw": 1434
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 1.34,
-        "operating_avg_mw": 26.1,
+        "pipeline_multiple": 1.32,
+        "operating_avg_mw": 25.9,
         "planned_avg_mw": 119.5,
         "size_divergence": 4.6,
-        "total_count": 53,
-        "total_mw": 2503
+        "total_count": 54,
+        "total_mw": 2522
       }
     },
     "west-virginia": {
