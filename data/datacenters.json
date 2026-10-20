@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-19T17:20:32.232716+00:00",
+  "pulled_at": "2026-10-20T15:33:30.374643+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
       "operating_count": 1379,
-      "operating_mw": 63739,
-      "planned_count": 2775,
-      "planned_mw": 407562
+      "operating_mw": 63989,
+      "planned_count": 2794,
+      "planned_mw": 409206
     },
     "facilities": [],
     "derived": {
       "pipeline_multiple": 6.39,
-      "operating_avg_mw": 46.2,
-      "planned_avg_mw": 146.9,
+      "operating_avg_mw": 46.4,
+      "planned_avg_mw": 146.5,
       "size_divergence": 3.2,
-      "total_count": 4154,
-      "total_mw": 471301
+      "total_count": 4173,
+      "total_mw": 473195
     }
   },
   "states": {
@@ -58,19 +58,19 @@
     "arizona": {
       "url": "https://cleanview.co/data-centers/arizona",
       "summary": {
-        "operating_count": 71,
-        "operating_mw": 3649,
-        "planned_count": 93,
-        "planned_mw": 14030
+        "operating_count": 74,
+        "operating_mw": 3793,
+        "planned_count": 95,
+        "planned_mw": 14451
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 3.84,
-        "operating_avg_mw": 51.4,
-        "planned_avg_mw": 150.9,
-        "size_divergence": 2.9,
-        "total_count": 164,
-        "total_mw": 17679
+        "pipeline_multiple": 3.81,
+        "operating_avg_mw": 51.3,
+        "planned_avg_mw": 152.1,
+        "size_divergence": 3.0,
+        "total_count": 169,
+        "total_mw": 18244
       }
     },
     "arkansas": {
@@ -212,19 +212,19 @@
     "illinois": {
       "url": "https://cleanview.co/data-centers/illinois",
       "summary": {
-        "operating_count": 46,
-        "operating_mw": 1891,
-        "planned_count": 76,
-        "planned_mw": 9806
+        "operating_count": 45,
+        "operating_mw": 1845,
+        "planned_count": 79,
+        "planned_mw": 9979
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 5.19,
-        "operating_avg_mw": 41.1,
-        "planned_avg_mw": 129.0,
+        "pipeline_multiple": 5.41,
+        "operating_avg_mw": 41.0,
+        "planned_avg_mw": 126.3,
         "size_divergence": 3.1,
-        "total_count": 122,
-        "total_mw": 11697
+        "total_count": 124,
+        "total_mw": 11824
       }
     },
     "indiana": {
@@ -392,17 +392,17 @@
       "summary": {
         "operating_count": 15,
         "operating_mw": 364,
-        "planned_count": 16,
-        "planned_mw": 1545
+        "planned_count": 17,
+        "planned_mw": 1620
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 4.24,
+        "pipeline_multiple": 4.45,
         "operating_avg_mw": 24.3,
-        "planned_avg_mw": 96.6,
-        "size_divergence": 4.0,
-        "total_count": 31,
-        "total_mw": 1909
+        "planned_avg_mw": 95.3,
+        "size_divergence": 3.9,
+        "total_count": 32,
+        "total_mw": 1984
       }
     },
     "mississippi": {
@@ -630,16 +630,16 @@
       "summary": {
         "operating_count": 99,
         "operating_mw": 5378,
-        "planned_count": 42,
+        "planned_count": 43,
         "planned_mw": 3155
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 0.59,
         "operating_avg_mw": 54.3,
-        "planned_avg_mw": 75.1,
+        "planned_avg_mw": 73.4,
         "size_divergence": 1.4,
-        "total_count": 141,
+        "total_count": 142,
         "total_mw": 8533
       }
     },
