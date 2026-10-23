@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-22T15:47:28.747537+00:00",
+  "pulled_at": "2026-10-23T15:38:29.744759+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
-      "operating_count": 1393,
-      "operating_mw": 64788,
-      "planned_count": 2829,
-      "planned_mw": 413130
+      "operating_count": 1394,
+      "operating_mw": 64764,
+      "planned_count": 2841,
+      "planned_mw": 413152
     },
     "facilities": [],
     "derived": {
       "pipeline_multiple": 6.38,
       "operating_avg_mw": 46.5,
-      "planned_avg_mw": 146.0,
+      "planned_avg_mw": 145.4,
       "size_divergence": 3.1,
-      "total_count": 4222,
-      "total_mw": 477918
+      "total_count": 4235,
+      "total_mw": 477916
     }
   },
   "states": {
@@ -112,19 +112,19 @@
     "colorado": {
       "url": "https://cleanview.co/data-centers/colorado",
       "summary": {
-        "operating_count": 14,
-        "operating_mw": 183,
-        "planned_count": 25,
-        "planned_mw": 2137
+        "operating_count": 13,
+        "operating_mw": 158,
+        "planned_count": 26,
+        "planned_mw": 2167
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 11.68,
-        "operating_avg_mw": 13.1,
-        "planned_avg_mw": 85.5,
-        "size_divergence": 6.5,
+        "pipeline_multiple": 13.72,
+        "operating_avg_mw": 12.2,
+        "planned_avg_mw": 83.3,
+        "size_divergence": 6.8,
         "total_count": 39,
-        "total_mw": 2320
+        "total_mw": 2325
       }
     },
     "connecticut": {
@@ -154,18 +154,18 @@
       "url": "https://cleanview.co/data-centers/florida",
       "summary": {
         "operating_count": 13,
-        "operating_mw": 37,
+        "operating_mw": 36,
         "planned_count": 8,
         "planned_mw": 4373
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 118.19,
+        "pipeline_multiple": 121.47,
         "operating_avg_mw": 2.8,
         "planned_avg_mw": 546.6,
         "size_divergence": 195.2,
         "total_count": 21,
-        "total_mw": 4410
+        "total_mw": 4409
       }
     },
     "georgia": {
@@ -173,17 +173,17 @@
       "summary": {
         "operating_count": 44,
         "operating_mw": 3090,
-        "planned_count": 170,
-        "planned_mw": 20443
+        "planned_count": 173,
+        "planned_mw": 21043
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 6.62,
+        "pipeline_multiple": 6.81,
         "operating_avg_mw": 70.2,
-        "planned_avg_mw": 120.3,
+        "planned_avg_mw": 121.6,
         "size_divergence": 1.7,
-        "total_count": 214,
-        "total_mw": 23533
+        "total_count": 217,
+        "total_mw": 24133
       }
     },
     "hawaii": {
@@ -725,17 +725,17 @@
       "summary": {
         "operating_count": 164,
         "operating_mw": 8104,
-        "planned_count": 550,
-        "planned_mw": 94876
+        "planned_count": 560,
+        "planned_mw": 94849
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 11.71,
+        "pipeline_multiple": 11.7,
         "operating_avg_mw": 49.4,
-        "planned_avg_mw": 172.5,
-        "size_divergence": 3.5,
-        "total_count": 714,
-        "total_mw": 102980
+        "planned_avg_mw": 169.4,
+        "size_divergence": 3.4,
+        "total_count": 724,
+        "total_mw": 102953
       }
     },
     "utah": {
@@ -764,19 +764,19 @@
     "virginia": {
       "url": "https://cleanview.co/data-centers/virginia",
       "summary": {
-        "operating_count": 355,
-        "operating_mw": 17710,
-        "planned_count": 458,
-        "planned_mw": 38575
+        "operating_count": 359,
+        "operating_mw": 17900,
+        "planned_count": 459,
+        "planned_mw": 38681
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 2.18,
+        "pipeline_multiple": 2.16,
         "operating_avg_mw": 49.9,
-        "planned_avg_mw": 84.2,
+        "planned_avg_mw": 84.3,
         "size_divergence": 1.7,
-        "total_count": 813,
-        "total_mw": 56285
+        "total_count": 818,
+        "total_mw": 56581
       }
     },
     "washington": {
