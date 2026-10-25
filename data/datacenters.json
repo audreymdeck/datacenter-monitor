@@ -1,22 +1,22 @@
 {
-  "pulled_at": "2026-10-24T14:16:17.537494+00:00",
+  "pulled_at": "2026-10-25T14:51:09.541864+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
     "summary": {
-      "operating_count": 1395,
-      "operating_mw": 64779,
-      "planned_count": 2851,
-      "planned_mw": 414617
+      "operating_count": 1396,
+      "operating_mw": 64787,
+      "planned_count": 2858,
+      "planned_mw": 415129
     },
     "facilities": [],
     "derived": {
-      "pipeline_multiple": 6.4,
+      "pipeline_multiple": 6.41,
       "operating_avg_mw": 46.4,
-      "planned_avg_mw": 145.4,
+      "planned_avg_mw": 145.3,
       "size_divergence": 3.1,
-      "total_count": 4246,
-      "total_mw": 479396
+      "total_count": 4254,
+      "total_mw": 479916
     }
   },
   "states": {
@@ -95,18 +95,18 @@
       "url": "https://cleanview.co/data-centers/california",
       "summary": {
         "operating_count": 69,
-        "operating_mw": 1204,
-        "planned_count": 37,
+        "operating_mw": 1203,
+        "planned_count": 38,
         "planned_mw": 2428
       },
       "facilities": [],
       "derived": {
         "pipeline_multiple": 2.02,
         "operating_avg_mw": 17.4,
-        "planned_avg_mw": 65.6,
-        "size_divergence": 3.8,
-        "total_count": 106,
-        "total_mw": 3632
+        "planned_avg_mw": 63.9,
+        "size_divergence": 3.7,
+        "total_count": 107,
+        "total_mw": 3631
       }
     },
     "colorado": {
@@ -212,19 +212,19 @@
     "illinois": {
       "url": "https://cleanview.co/data-centers/illinois",
       "summary": {
-        "operating_count": 46,
-        "operating_mw": 1884,
-        "planned_count": 95,
-        "planned_mw": 11829
+        "operating_count": 47,
+        "operating_mw": 1899,
+        "planned_count": 102,
+        "planned_mw": 12881
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 6.28,
-        "operating_avg_mw": 41.0,
-        "planned_avg_mw": 124.5,
-        "size_divergence": 3.0,
-        "total_count": 141,
-        "total_mw": 13713
+        "pipeline_multiple": 6.78,
+        "operating_avg_mw": 40.4,
+        "planned_avg_mw": 126.3,
+        "size_divergence": 3.1,
+        "total_count": 149,
+        "total_mw": 14780
       }
     },
     "indiana": {
@@ -726,7 +726,7 @@
         "operating_count": 164,
         "operating_mw": 8104,
         "planned_count": 560,
-        "planned_mw": 94849
+        "planned_mw": 94840
       },
       "facilities": [],
       "derived": {
@@ -735,7 +735,7 @@
         "planned_avg_mw": 169.4,
         "size_divergence": 3.4,
         "total_count": 724,
-        "total_mw": 102953
+        "total_mw": 102944
       }
     },
     "utah": {
