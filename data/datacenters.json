@@ -1,5 +1,5 @@
 {
-  "pulled_at": "2026-10-26T17:07:50.876805+00:00",
+  "pulled_at": "2026-10-27T16:12:41.257844+00:00",
   "source": "https://cleanview.co/data-centers",
   "national": {
     "url": "https://cleanview.co/data-centers/us",
@@ -766,17 +766,17 @@
       "summary": {
         "operating_count": 359,
         "operating_mw": 17900,
-        "planned_count": 459,
-        "planned_mw": 38681
+        "planned_count": 474,
+        "planned_mw": 40181
       },
       "facilities": [],
       "derived": {
-        "pipeline_multiple": 2.16,
+        "pipeline_multiple": 2.24,
         "operating_avg_mw": 49.9,
-        "planned_avg_mw": 84.3,
+        "planned_avg_mw": 84.8,
         "size_divergence": 1.7,
-        "total_count": 818,
-        "total_mw": 56581
+        "total_count": 833,
+        "total_mw": 58081
       }
     },
     "washington": {
