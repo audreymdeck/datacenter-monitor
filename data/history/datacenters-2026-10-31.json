@@ -1,0 +1,313 @@
+{
+  "pulled_at": "2026-10-31T15:57:06.120055+00:00",
+  "source": "https://cleanview.co/data-centers",
+  "national": {
+    "url": "https://cleanview.co/data-centers/us",
+    "summary": null,
+    "facilities": []
+  },
+  "states": {
+    "alabama": {
+      "url": "https://cleanview.co/data-centers/alabama",
+      "summary": null,
+      "facilities": []
+    },
+    "alaska": {
+      "url": "https://cleanview.co/data-centers/alaska",
+      "summary": null,
+      "facilities": []
+    },
+    "arizona": {
+      "url": "https://cleanview.co/data-centers/arizona",
+      "summary": null,
+      "facilities": []
+    },
+    "arkansas": {
+      "url": "https://cleanview.co/data-centers/arkansas",
+      "summary": null,
+      "facilities": []
+    },
+    "california": {
+      "url": "https://cleanview.co/data-centers/california",
+      "summary": null,
+      "facilities": []
+    },
+    "colorado": {
+      "url": "https://cleanview.co/data-centers/colorado",
+      "summary": null,
+      "facilities": []
+    },
+    "connecticut": {
+      "url": "https://cleanview.co/data-centers/connecticut",
+      "summary": null,
+      "facilities": []
+    },
+    "delaware": {
+      "url": "https://cleanview.co/data-centers/delaware",
+      "summary": null,
+      "facilities": []
+    },
+    "florida": {
+      "url": "https://cleanview.co/data-centers/florida",
+      "summary": null,
+      "facilities": []
+    },
+    "georgia": {
+      "url": "https://cleanview.co/data-centers/georgia",
+      "summary": null,
+      "facilities": []
+    },
+    "hawaii": {
+      "url": "https://cleanview.co/data-centers/hawaii",
+      "summary": null,
+      "facilities": []
+    },
+    "idaho": {
+      "url": "https://cleanview.co/data-centers/idaho",
+      "summary": null,
+      "facilities": []
+    },
+    "illinois": {
+      "url": "https://cleanview.co/data-centers/illinois",
+      "summary": null,
+      "facilities": []
+    },
+    "indiana": {
+      "url": "https://cleanview.co/data-centers/indiana",
+      "summary": null,
+      "facilities": []
+    },
+    "iowa": {
+      "url": "https://cleanview.co/data-centers/iowa",
+      "summary": null,
+      "facilities": []
+    },
+    "kansas": {
+      "url": "https://cleanview.co/data-centers/kansas",
+      "summary": null,
+      "facilities": []
+    },
+    "kentucky": {
+      "url": "https://cleanview.co/data-centers/kentucky",
+      "summary": null,
+      "facilities": []
+    },
+    "louisiana": {
+      "url": "https://cleanview.co/data-centers/louisiana",
+      "summary": null,
+      "facilities": []
+    },
+    "maine": {
+      "url": "https://cleanview.co/data-centers/maine",
+      "summary": null,
+      "facilities": []
+    },
+    "maryland": {
+      "url": "https://cleanview.co/data-centers/maryland",
+      "summary": null,
+      "facilities": []
+    },
+    "massachusetts": {
+      "url": "https://cleanview.co/data-centers/massachusetts",
+      "summary": null,
+      "facilities": []
+    },
+    "michigan": {
+      "url": "https://cleanview.co/data-centers/michigan",
+      "summary": null,
+      "facilities": []
+    },
+    "minnesota": {
+      "url": "https://cleanview.co/data-centers/minnesota",
+      "summary": null,
+      "facilities": []
+    },
+    "mississippi": {
+      "url": "https://cleanview.co/data-centers/mississippi",
+      "summary": null,
+      "facilities": []
+    },
+    "missouri": {
+      "url": "https://cleanview.co/data-centers/missouri",
+      "summary": null,
+      "facilities": []
+    },
+    "montana": {
+      "url": "https://cleanview.co/data-centers/montana",
+      "summary": null,
+      "facilities": []
+    },
+    "nebraska": {
+      "url": "https://cleanview.co/data-centers/nebraska",
+      "summary": null,
+      "facilities": []
+    },
+    "nevada": {
+      "url": "https://cleanview.co/data-centers/nevada",
+      "summary": null,
+      "facilities": []
+    },
+    "new-hampshire": {
+      "url": "https://cleanview.co/data-centers/new-hampshire",
+      "summary": null,
+      "facilities": []
+    },
+    "new-jersey": {
+      "url": "https://cleanview.co/data-centers/new-jersey",
+      "summary": null,
+      "facilities": []
+    },
+    "new-mexico": {
+      "url": "https://cleanview.co/data-centers/new-mexico",
+      "summary": null,
+      "facilities": []
+    },
+    "new-york": {
+      "url": "https://cleanview.co/data-centers/new-york",
+      "summary": null,
+      "facilities": []
+    },
+    "north-carolina": {
+      "url": "https://cleanview.co/data-centers/north-carolina",
+      "summary": null,
+      "facilities": []
+    },
+    "north-dakota": {
+      "url": "https://cleanview.co/data-centers/north-dakota",
+      "summary": null,
+      "facilities": []
+    },
+    "ohio": {
+      "url": "https://cleanview.co/data-centers/ohio",
+      "summary": null,
+      "facilities": []
+    },
+    "oklahoma": {
+      "url": "https://cleanview.co/data-centers/oklahoma",
+      "summary": null,
+      "facilities": []
+    },
+    "oregon": {
+      "url": "https://cleanview.co/data-centers/oregon",
+      "summary": null,
+      "facilities": []
+    },
+    "pennsylvania": {
+      "url": "https://cleanview.co/data-centers/pennsylvania",
+      "summary": null,
+      "facilities": []
+    },
+    "rhode-island": {
+      "url": "https://cleanview.co/data-centers/rhode-island",
+      "summary": null,
+      "facilities": []
+    },
+    "south-carolina": {
+      "url": "https://cleanview.co/data-centers/south-carolina",
+      "summary": null,
+      "facilities": []
+    },
+    "south-dakota": {
+      "url": "https://cleanview.co/data-centers/south-dakota",
+      "summary": null,
+      "facilities": []
+    },
+    "tennessee": {
+      "url": "https://cleanview.co/data-centers/tennessee",
+      "summary": null,
+      "facilities": []
+    },
+    "texas": {
+      "url": "https://cleanview.co/data-centers/texas",
+      "summary": null,
+      "facilities": []
+    },
+    "utah": {
+      "url": "https://cleanview.co/data-centers/utah",
+      "summary": null,
+      "facilities": []
+    },
+    "vermont": {
+      "url": "https://cleanview.co/data-centers/vermont",
+      "summary": null,
+      "facilities": []
+    },
+    "virginia": {
+      "url": "https://cleanview.co/data-centers/virginia",
+      "summary": null,
+      "facilities": []
+    },
+    "washington": {
+      "url": "https://cleanview.co/data-centers/washington",
+      "summary": null,
+      "facilities": []
+    },
+    "west-virginia": {
+      "url": "https://cleanview.co/data-centers/west-virginia",
+      "summary": null,
+      "facilities": []
+    },
+    "wisconsin": {
+      "url": "https://cleanview.co/data-centers/wisconsin",
+      "summary": null,
+      "facilities": []
+    },
+    "wyoming": {
+      "url": "https://cleanview.co/data-centers/wyoming",
+      "summary": null,
+      "facilities": []
+    }
+  },
+  "errors": {
+    "alabama": "'NoneType' object is not subscriptable",
+    "alaska": "'NoneType' object is not subscriptable",
+    "arizona": "'NoneType' object is not subscriptable",
+    "arkansas": "'NoneType' object is not subscriptable",
+    "california": "'NoneType' object is not subscriptable",
+    "colorado": "'NoneType' object is not subscriptable",
+    "connecticut": "'NoneType' object is not subscriptable",
+    "delaware": "'NoneType' object is not subscriptable",
+    "florida": "'NoneType' object is not subscriptable",
+    "georgia": "'NoneType' object is not subscriptable",
+    "hawaii": "'NoneType' object is not subscriptable",
+    "idaho": "'NoneType' object is not subscriptable",
+    "illinois": "'NoneType' object is not subscriptable",
+    "indiana": "'NoneType' object is not subscriptable",
+    "iowa": "'NoneType' object is not subscriptable",
+    "kansas": "'NoneType' object is not subscriptable",
+    "kentucky": "'NoneType' object is not subscriptable",
+    "louisiana": "'NoneType' object is not subscriptable",
+    "maine": "'NoneType' object is not subscriptable",
+    "maryland": "'NoneType' object is not subscriptable",
+    "massachusetts": "'NoneType' object is not subscriptable",
+    "michigan": "'NoneType' object is not subscriptable",
+    "minnesota": "'NoneType' object is not subscriptable",
+    "mississippi": "'NoneType' object is not subscriptable",
+    "missouri": "'NoneType' object is not subscriptable",
+    "montana": "'NoneType' object is not subscriptable",
+    "nebraska": "'NoneType' object is not subscriptable",
+    "nevada": "'NoneType' object is not subscriptable",
+    "new-hampshire": "'NoneType' object is not subscriptable",
+    "new-jersey": "'NoneType' object is not subscriptable",
+    "new-mexico": "'NoneType' object is not subscriptable",
+    "new-york": "'NoneType' object is not subscriptable",
+    "north-carolina": "'NoneType' object is not subscriptable",
+    "north-dakota": "'NoneType' object is not subscriptable",
+    "ohio": "'NoneType' object is not subscriptable",
+    "oklahoma": "'NoneType' object is not subscriptable",
+    "oregon": "'NoneType' object is not subscriptable",
+    "pennsylvania": "'NoneType' object is not subscriptable",
+    "rhode-island": "'NoneType' object is not subscriptable",
+    "south-carolina": "'NoneType' object is not subscriptable",
+    "south-dakota": "'NoneType' object is not subscriptable",
+    "tennessee": "'NoneType' object is not subscriptable",
+    "texas": "'NoneType' object is not subscriptable",
+    "utah": "'NoneType' object is not subscriptable",
+    "vermont": "'NoneType' object is not subscriptable",
+    "virginia": "'NoneType' object is not subscriptable",
+    "washington": "'NoneType' object is not subscriptable",
+    "west-virginia": "'NoneType' object is not subscriptable",
+    "wisconsin": "'NoneType' object is not subscriptable",
+    "wyoming": "'NoneType' object is not subscriptable"
+  }
+}
